@@ -78,6 +78,7 @@ class PaymentInfoTableViewCell: UITableViewCell {
             qrPaymentView.colorScheme = colorScheme
             halykIdPaymentView.colorScheme = colorScheme
             applePayPaymentView.colorScheme = colorScheme
+            installmentPaymentView.colorScheme = colorScheme
         }
     }
     
